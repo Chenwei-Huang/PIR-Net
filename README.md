@@ -8,6 +8,6 @@ argparse
 scipy  
 opencv-python 4.6.2
 ## How to run
-* Download [MVR dataset](https://pan.baidu.com/s/1n3a5oFjSnm0vw-jHaOlm9A) (code: vbnm) and Extract the data.  
-* Download [pretrained model](https://pan.baidu.com/s/1ett_fyuSLVXe5C6UgUtGbQ) (code: vbnm) and Extract the file.
+* Download [MVR dataset](https://pan.baidu.com/s/1n3a5oFjSnm0vw-jHaOlm9A) (code: vbnm) and Extract the data under the project.  
+* Download [pretrained model](https://pan.baidu.com/s/1ett_fyuSLVXe5C6UgUtGbQ) (code: vbnm) and Extract the file under the project.
 * run "python test.py"
