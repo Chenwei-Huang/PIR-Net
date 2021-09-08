@@ -1,0 +1,6 @@
+torch>=0.3
+torchvision
+imageio
+argparse
+scipy
+opencv-python 4.6.2
