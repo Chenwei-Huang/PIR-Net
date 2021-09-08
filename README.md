@@ -7,8 +7,7 @@ imageio
 argparse  
 scipy  
 opencv-python 4.6.2
-## Dataset
-We set up a MVR Dataset which can be download here. 
 ## How to run
-* Download MVR dataset and Extract the data in the folder data.  
+* Download [MVR dataset](https://pan.baidu.com/s/1n3a5oFjSnm0vw-jHaOlm9A) (code: vbnm) and Extract the data.  
+* Download [pretrained model](https://pan.baidu.com/s/1ett_fyuSLVXe5C6UgUtGbQ) (code: vbnm) and Extract the file.
 * run "python test.py"
