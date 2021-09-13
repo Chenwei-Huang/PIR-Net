@@ -11,3 +11,5 @@ opencv-python 4.6.2
 * Download [MVR dataset](https://pan.baidu.com/s/1n3a5oFjSnm0vw-jHaOlm9A) (code: vbnm) and Extract the data under the project.  
 * Download [pretrained model](https://pan.baidu.com/s/1ett_fyuSLVXe5C6UgUtGbQ) (code: vbnm) and Extract the file under the project.
 * run "python test.py"
+## Visualization
+We also provide a visualization demo (transform.m) to test our registration model. 
